@@ -19,6 +19,6 @@
 <div align="center">
 
 <!-- Thay YOUR_USERNAME bằng tên GitHub thực tế của bạn để con rắn hoạt động -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/hieu7404/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
