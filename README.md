@@ -1,94 +1,83 @@
+````markdown
 <div align="center">
 
-# Hi there 👋
-
-### AI Engineer • LLM Developer • Final-year AI Student
-
-Building AI applications with LLMs, RAG and Python.
+<img src="YOUR_BANNER_URL" width="100%" />
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)](https://github.com/YOUR_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Le+Trung+Hieu;Artificial+Intelligence+Student;LLM+%7C+RAG+%7C+AI+Agents;Always+Learning+Something+New" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 VNU University of Engineering and Technology
-* 🤖 Interested in **LLMs, RAG, AI Agents**
-* 🌱 Currently learning **AI Product Development**
-* 💡 Love building practical AI applications
-* 🎯 Goal: Become an AI/LLM Engineer
+```python
+class LeTrungHieu:
 
----
+    education = "VNU University of Engineering and Technology"
 
-## 🚀 Tech Stack
+    interests = [
+        "Large Language Models",
+        "Retrieval-Augmented Generation",
+        "AI Agents"
+    ]
 
-<p>
+    currently_learning = [
+        "AI Product Development",
+        "Agentic AI"
+    ]
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,fastapi,flask,docker,mysql,git,github,vscode,linux"/>
+    goal = "AI / LLM Engineer"
 
-</p>
-
----
-
-## 📌 Featured Projects
-
-### ⚖️ Legal RAG Assistant
-
-Retrieval-Augmented Generation system for Vietnamese legal documents.
-
-### 🤖 AI Product Lab
-
-Prompt engineering & AI product prototyping.
-
-### 📄 PDF AI Assistant
-
-Chat with PDF using RAG.
-
-### 📚 Goodreads Multi-label Classification
-
-Deep Learning project using CNN, LSTM and BERT.
+    motto = "Keep Learning. Keep Building."
+```
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
----
+<br>
 
-## 🔥 GitHub Streak
-
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
----
+<br>
 
-## 📫 Connect
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> • <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • <a href="mailto:YOUR_EMAIL">Email</a>
+</div>
 
-</p>
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Keep Learning. Keep Building."*
+### ✨ *"Code. Learn. Build. Repeat."*
 
 </div>
+````
